@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
-    
   },
   "repository": {
     "type": "module",
@@ -18,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Luiso86/Api-Rest-NodeJs-Novoa/issues"
   },
-  "homepage": "https://github.com/Luiso86/Api-Rest-NodeJs-Novoa#readme"
+  "homepage": "https://github.com/Luiso86/Api-Rest-NodeJs-Novoa#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
